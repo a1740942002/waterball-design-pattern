@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "age": 30,
+    "intro": "Hello World",
+    "habits": ["coding", "make love"],
+    "coord": {
+      "x": 0,
+      "y": 0
+    }
+  }
+]
