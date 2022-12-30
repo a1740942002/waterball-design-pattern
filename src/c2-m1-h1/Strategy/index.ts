@@ -1,7 +1,10 @@
 import Individual from '../Individual'
 
 interface Strategy {
-  getMatchingResult(individual: Individual, individuals: Individual[]): Individual[]
+  getMatchingResult(
+    individual: Individual,
+    individuals: Individual[]
+  ): Individual[]
 }
 
 export default Strategy

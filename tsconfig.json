@@ -9,11 +9,8 @@
     "outDir": "dist",
     "baseUrl": "./src",
     "paths": {
-      "*": [
-        "node_modules/*",
-        "*"
-      ]
+      "*": ["node_modules/*", "*"]
     },
     "resolveJsonModule": true
-  },
+  }
 }
